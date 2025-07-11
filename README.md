@@ -1,2 +1,3 @@
 # uie
 水下图像增强
+数据集使用EUVP下配对的underwater_scenes作为训练和测试数据
